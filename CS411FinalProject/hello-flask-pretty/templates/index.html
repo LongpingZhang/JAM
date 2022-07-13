@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% block title %}{{title}}{% endblock %}
+{% block head %}
+  {{ super() }}
+{% endblock %}
+{% block content %}
+<div class="row text-center">
+  <div class="col">
+    <h1>{{ title}}</h1>
+  </div>
+</div>
+<br/><br/>
+<div class="row">
+  <div class="form-group col">
+    <label for="sql-text-area">We have a table named "Customers". Enter query below and run.</label>
+    <textarea class="form-control" id="sql-text-area" rows="5"></textarea><br>
+    <button class="btn btn-primary" id="sendButton">Run Advanced Query</button>
+  </div>
+
+  <div>
+    <form>
+      <label for="search_name">Search Customer:</label><br>
+      <input type="text" id="search_name" name="search_name"><br>
+    </form><br>
+    <button class="btn btn-success" id="searchCustomersButton">Search Customers</button>
+    <form>
+      <label for="add_id">Customer Id:</label><br>
+      <input type="text" id="add_id" name="add_id"><br>
+      <label for="add_name">Customer Name:</label><br>
+      <input type="text" id="add_name" name="add_name"><br>
+    </form><br>
+    <button class="btn btn-success" id="addCustomersButton">Add Customers</button>
+    <form>
+      <label for="delete_id">Delete Customer:</label><br>
+      <input type="text" id="delete_id" name="delete_id"><br>
+    </form><br>
+    <button class="btn btn-success" id="deleteCustomersButton">Delete Customers</button>
+    <form>
+      <label for="update_id">Customer Id:</label><br>
+      <input type="text" id="update_id" name="update_id"><br>
+      <label for="update_name">Customer Name:</label><br>
+      <input type="text" id="update_name" name="update_name"><br>
+    </form><br>
+    <button class="btn btn-success" id="updateCustomersButton">Update Customers</button>
+    <!-- <div> -->
+      <!-- <button class="btn btn-success" id="customersButton">Search Customers</button> -->
+    <!-- </div> -->
+  </div>
+
+</div>
+<div class="row">
+  <div class="result-table col">
+    <div id="canvas-result-table" style="height: 500px"></div>
+  </div>
+  <!--
+  <div class="result-chart col">
+    <div id="canvas-result-plot" style="height: 500px"></div>
+  </div>
+  -->
+
+</div>
+<div class="row text-center">
+  <div class="col">
+    <button class="btn btn-info" id="productsButton">Search Products</button>
+    <button class="btn btn-danger" id="purchasesButton">Search Purchases</button>
+  </div>
+</div>
+
+{% endblock %}

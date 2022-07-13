@@ -1,0 +1,63 @@
+.login_page {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+
+    .login_page_redirect_button {
+        position: absolute;
+        display: flex;
+        top: 20px;
+        left: 20px;
+        width: 160px;
+        height: 40px;
+        color: white;
+        font-size: medium;
+        font-weight: 800;
+        background-color: transparent;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .login_page_redirect_button:hover {
+        cursor: pointer;
+        background-color: aquamarine;
+        color: black;
+    }
+
+    .login_page_input {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-bottom: 10px;
+    }
+
+    .login_button {
+        background-color: yellowgreen;
+        color: black;
+        margin: 10px;
+        margin-bottom: 20px;
+        padding: 5px;
+        font-size: 18px;
+    }
+
+    .login_button:hover {
+        cursor: pointer;
+    }
+
+    .signup_button {
+        background-color: yellowgreen;
+        color: black;
+        margin: 10px;
+        padding: 5px;
+        font-size: 18px;
+    }
+
+    .signup_button:hover {
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,925 @@
+address,city,state,storeName,storeId
+10320 Plymouth Rd,Detroit                       ,MI,Shop A Lot Food Center,1
+10333 Fenkell St,Detroit                       ,MI,Red Fox Foodland,2
+1131 W Warren Ave,Detroit                       ,MI,University Foods,3
+11825 Woodward Ave,Detroit                       ,MI,Save A Lot,4
+12055 Morang Dr,Detroit                       ,MI,Morang Super Market,5
+12300 Conant St,Detroit                       ,MI,Bishr Poultry & Food Center,6
+12500 Klinger St,Detroit                       ,MI,Shukriya Market,7
+12740 Gratiot Ave,Detroit                       ,MI,Mazen Foods,8
+12955 Grand River Ave,Detroit                       ,MI,Grand Price Food Center,9
+13210 E Jefferson Ave,Detroit                       ,MI,Parkway Foods,10
+13999 Harper Ave,Detroit                       ,MI,Harper Food Center,11
+14040 Greenfield Rd,Detroit                       ,MI,Food Giant Supermarket,12
+1421 Springwells St,Detroit                       ,MI,B & E Quick Shop Market,13
+14424 Schaefer Hwy,Detroit                       ,MI,Banner Super Store,14
+16010 W Warren Ave,Detroit                       ,MI,River'S Land Produce And Halal Meats,15
+1614 Lansing St,Detroit                       ,MI,Sam'S Supermercado Y Carniceria,16
+16159 Fenkell St,Detroit                       ,MI,Fenkell Super Foods,17
+16231 Plymouth Rd,Detroit                       ,MI,Gateway Supermarket,18
+16322 W Warren Ave,Detroit                       ,MI,Papaya Fruit Market,19
+16910 Schaefer Hwy,Detroit                       ,MI,Fairway Foods,20
+17007 W Warren Ave,Detroit                       ,MI,"Barakah Poultry, Grocery & Produce",21
+1701 Trumbull St,Detroit                       ,MI,Bagley Trumbull Market Grocery,22
+17021 Schoolcraft St,Detroit                       ,MI,Super Land Market,23
+17600 Joy Rd,Detroit                       ,MI,G.K Pic-Pack Market,24
+18330 W Chicago St,Detroit                       ,MI,Sea Way Market Place,25
+18510 W Warren Ave,Detroit                       ,MI,Karbala Food Mart,26
+18551 Grand River Ave,Detroit                       ,MI,Metro Foodland,27
+19040 John R St,Detroit                       ,MI,John R. Food Mkt.,28
+1930 Springwells St,Detroit                       ,MI,El Rodeo Supermercado,29
+19617 W Warren Ave,Detroit                       ,MI,Green Valley Groceries,30
+20221 Joy Rd,Detroit                       ,MI,Saturn Super Foods,31
+2030 Springwells St,Detroit                       ,MI,Aldama'S Produce,32
+2510 E Nevada St,Detroit                       ,MI,Nevada Supermarket,33
+2526 Pearl St,Detroit                       ,MI,Supermercado La Barca,34
+3344 W Vernor Hwy,Detroit                       ,MI,W. Vernor Supermercado,35
+3923 W Vernor Hwy,Detroit                       ,MI,La Mexicana Supermercado,36
+4044 Miller St,Detroit                       ,MI,Yemen Islamic Market,37
+4650 Conner St,Detroit                       ,MI,Steve'S Produce Plus,38
+4929 E Mcnichols Rd,Detroit                       ,MI,Super 6 Market,39
+500 E Warren Ave,Detroit                       ,MI,Food Price Super Market,40
+5240 E Outer Dr,Detroit                       ,MI,Joe Randazzo'S Fruits & Vegetables,41
+5736 Grand River Ave,Detroit                       ,MI,Royal $ Market,42
+5800 Caniff St,Detroit                       ,MI,Krown Supermarket,43
+6401 W Vernor Hwy,Detroit                       ,MI,Mexican Palace Fruit Market,44
+6461 W Warren Ave,Detroit                       ,MI,Metro Food Center,45
+7101 W Vernor Hwy,Detroit                       ,MI,La Piedad Supermercado,46
+7403 W Vernor Hwy,Detroit                       ,MI,La Fiesta Market Carniceria,47
+7761 Greenfield Rd,Detroit                       ,MI,Fresco Market Place,48
+8414 Michigan Ave,Detroit                       ,MI,New Michigan Food Center,49
+8415 E Jefferson Ave,Detroit                       ,MI,Indian Village Marketplace,50
+8830 Gratiot Ave,Detroit                       ,MI,Super Giant,51
+908 Westminster St,Detroit                       ,MI,Oakland Food Center,52
+9433 Grand River Ave,Detroit                       ,MI,Mayfair Market,53
+14708 Mack Ave,Detroit                       ,MI,Aldi,54
+15415 Gratiot Ave,Detroit                       ,MI,Aldi,55
+40 Clairmount St,Detroit                       ,MI,King Cole Foods,56
+15041 Plymouth Rd,Detroit,MI,Americana Foods,57
+20250 W 7 Mile Rd,Detroit,MI,Apollo Market Place,58
+2645 W Davison St,Detroit,MI,Atlas Market,59
+2411 Central St,Detroit,MI,Azteca Supermercado,60
+15200 E Warren Ave,Detroit,MI,Big Bear Food Center,61
+16700 Harper Ave,Detroit,MI,Del Pointe Foods,62
+6000 W Vernor Hwy,Detroit,MI,E&L Supermercado,63
+16520 W Warren Ave,Detroit,MI,Fairline Food Center,64
+700 Chene St,Detroit,MI,Family Fair Food Center,65
+8665 Rosa Parks Blvd,Detroit,MI,Family Foods Super Store,66
+9731 Harper Ave,Detroit,MI,Farmer John Food Center,67
+18246 Wyoming St,Detroit,MI,Farmer'S Best,68
+14020 Grand River Ave,Detroit,MI,Food 4 Less Super Market,69
+9911 E Jefferson Ave,Detroit,MI,Food Express Market,70
+11550 Dexter Ave,Detroit,MI,Food Farm,71
+7811 Gratiot Ave,Detroit,MI,Food Town Market,72
+5931 Michigan Ave,Detroit,MI,Gigante Prince Valley Supermercado,73
+12230 E 8 Mile Rd,Detroit,MI,Glory Super Market (8 Mile),74
+8000 W Outer Dr,Detroit,MI,Glory Super Market (Outer Dr),75
+19150 Telegraph Rd,Detroit,MI,Glory Super Market (Telegraph),76
+15530 Puritan St,Detroit,MI,Greenfield Supermarket,77
+3472 E Jefferson Ave,Detroit,MI,Harbortown Market,78
+2443 Bagley St,Detroit,MI,Honey Bee Market La Colmena,79
+1940 E 8 Mile Rd,Detroit,MI,Imperial Supermarket,80
+13433 W 8 Mile Rd,Detroit,MI,Jerry'S Food Center,81
+3431 Joy Rd,Detroit,MI,Joy Thrifty Scot,82
+8330 Harper Ave,Detroit,MI,Kit Kat Super Market,83
+6680 Michigan Ave,Detroit,MI,La Guadalupana Y Carniceria Supermercado,84
+1565 E Lafayette Blvd,Detroit,MI,Lafayette Foods,85
+10620 W Mcnichols Rd,Detroit,MI,Liberty Food Center,86
+13230 Livernois Ave,Detroit,MI,Livernois Food Center,87
+17241 E Warren Ave,Detroit,MI,Lucky'S Market,88
+14383 Gratiot Ave,Detroit,MI,Mike'S Fresh Market (Gratiot),89
+19195 Livernois Ave,Detroit,MI,Mike'S Fresh Market (Livernois),90
+11205 Mack Ave,Detroit,MI,Motor City Market Place,91
+2819 E 7 Mile Rd,Detroit,MI,New Merchant Food Center,92
+21673 Grand River Ave,Detroit,MI,New Redford Food Center,93
+7404 E 7 Mile Rd,Detroit,MI,Pick & Save Supermarket,94
+16226 E Warren Ave,Detroit,MI,Public Foods,95
+5858 W Vernor Hwy,Detroit,MI,Ryan'S Foods,96
+15001 Houston Whittier St,Detroit,MI,Save-A-Lot Store #23387,97
+13750 Fenkell St,Detroit,MI,Save-A-Lot Store #23490,98
+2545 S Schaefer Hwy,Detroit,MI,Save-A-Lot Store #23794,99
+5181 Grand River Ave,Detroit,MI,Save-A-Lot Store #24091,100
+8000 Schaefer Hwy,Detroit,MI,Save-A-Lot Store #24329,101
+3681 Gratiot Ave,Detroit,MI,Save-A-Lot Store #24598,102
+4703 Conner St,Detroit,MI,Save-A-Lot Store #24846,103
+7011 Gratiot Ave,Detroit,MI,Sav-Mart Food Center,104
+15025 W 7 Mile Rd,Detroit,MI,Savon Food Store,105
+18000 Livernois Ave,Detroit,MI,Savon Foods Superstore,106
+8139 E 7 Mile Rd,Detroit,MI,Seven Mile Foods,107
+11500 E Mcnichols Rd,Detroit,MI,Seven Star Food Center,108
+7009 W 7 Mile Rd,Detroit,MI,Super Fair Foods,109
+12021 Harper Ave,Detroit,MI,Thrifty Scot Super Market,110
+15690 Joy Rd,Detroit,MI,U.S. Quality Super Market,111
+14470 Livernois Ave,Detroit,MI,Value Save Super Store,112
+8801 W Vernor Hwy,Detroit,MI,Vernor Food Center,113
+8656 Wyoming,Detroit,MI,Lance'S Hometown Market,114
+20427 Plymouth Rd,Detroit,MI,Save-A-Lot Store #24719,115
+4120 Second St,Detroit,MI,Tom Boy Supermarket,116
+1411 Washington Blvd,Detroit,MI,Eve'S Downtown Gourmet,117
+115 Mack Ave,Detroit,MI,Whole Foods Market,118
+1301 W 8 Mile Rd,Detroit,MI,Meijer,119
+3100 Woodward Ave,Detroit,MI,Ye Olde Butcher Shoppe,120
+204 E 47Th St,,,200 Liquors,121
+3600 N Lake Shore Dr,,,3600 Commissary,122
+4343 S Pulaski Rd,,,4343 Petes Fresh Market,123
+4700 S Kedzie Ave,,,4700 Pete'S Fresh Market,124
+5659 W Diversey Ave,,,5659 W. Diversey,125
+7400 S Halsted St,,,"7400 S Halsted Food And Liquors, Inc.",126
+1351 W 79Th St,,,79 Food Basket,127
+2601 N Halsted St,,,Aaray Grocery,128
+5057 W Division St,,,A & B Food Market Inc,129
+1281 W 71St St,,,Ada Foods,130
+559 N Laramie Ave,,,Adams Food Mart,131
+6945 S State St,,,A & G Liquors,132
+3134 N Narragansett Ave,,,Al Bayan Grocery Inc.,133
+6621 S Cottage Grove Ave,,,Aldi,134
+6221 N Broadway,,,Aldi,135
+4934 S Kedzie Ave,,,Aldi #28,136
+3030 S Kedzie Ave,,,Aldi #30,137
+1840 N Clybourn Ave,,,Aldi #32,138
+7627 S Ashland Ave,,,Aldi #70,139
+7800 S South Chicago Ave,,,Aldi #79,140
+3835 W Madison St,,,Aldi Foods #91,141
+800 N Kedzie Ave,,,Aldi Foods -Store #04,142
+4645 W Diversey Ave,,,Aldi Foods Store #2,143
+2600 N Clybourn Ave,,,Aldi Foods Store #26,144
+3363 N Milwaukee Ave,,,Aldi Foods-Store #27,145
+4030 W Wrightwood Ave,,,Aldi Foods Store #30,146
+2828 N Central Ave,,,Aldi Foods Store #90B,147
+5001 N Pulaski Rd,,,Aldi Inc #06,148
+4501 S Pulaski Rd,,,Aldi Inc #10,149
+5775 S Archer Ave,,,Aldi Inc #53,150
+2431 W Montrose Ave,,,Aldi Inc #58,151
+6220 N California Ave,,,Aldi Inc # 62,152
+1767 N Milwaukee Ave,,,Aldi Inc #64,153
+8333 S Cicero Ave,,,Aldi Inc #83,154
+620 W 63Rd St,,,Aldi Inc #92,155
+6025 S Western Ave,,,Aldi Inc.#94,156
+821 W 115Th St,,,Aldi Inc. #96,157
+5629 W Fillmore St,,,Aldi Inc Store 14,158
+1246 E 87Th St,,,Aldi Inc Store #16,159
+1739 W Cermak Rd,,,Aldi Inc Store #62,160
+9017 S Halsted St,,,Aldi Inc Store #90,161
+2333 E 95Th St,,,Aldi Inc Store #95,162
+4500 N Broadway,,,Aldi'S,163
+6520 W Fullerton Ave,,,Aldi'S,164
+7333 S State St,,,Aldi'S #08,165
+10532 S Indianapolis Ave,,,Aldi'S # 26,166
+1508 W 47Th St,,,Aldi'S #47,167
+7545 S Western Ave,,,Aldi'S #93,168
+3320 W Belmont Ave,,,Aldi'S Foods Belmont,169
+2024 E 93Rd St,,,Alla'S Food,170
+2911 S Archer Ave,,,All Star Food & Liquor,171
+5404 S Halsted St,,,Almuflihi Food & Liquor,172
+1924 E 87Th St,,,Am-Pm Food Mart & Cellular,173
+935 E 79Th St,,,Anar Inc,174
+4733 N Kedzie Ave,,,Andys Fruit Ranch,175
+5952 W Grand Ave,,,A & R Food Mart,176
+5952 W Grand Ave,,,A & R Food Mart,177
+112 N May St,,,Arista Foods,178
+2007 N Kimball Ave,,,Armitage Produce Inc,179
+1605 W Howard St,,,Around The Clock,180
+1554 W 95Th St,,,Ashland Food And Liquors,181
+324 S Halsted St,,,Athens Grocery,182
+6850 W Belmont Ave,,,Avenue Food Mar Inc,183
+2340 W Devon Ave,,,Awami Bazaar & Zabiha Meat,184
+13322 S Baltimore Ave,,,Baltimore Food & Liquor,185
+1120 W Grand Ave,,,Bari,186
+3956 N Narragansett Ave,,,Berbate Fruit Market,187
+713 S Albany Ave,,,B & H Food & Grocery,188
+2345 N Clark St,,,Big Apple Finer Foods Inc,189
+5069 W Madison St,,,Bob'S Liquors & Groceries,190
+222 N Columbus Dr,,,Bockwinkels,191
+5922 W Irving Park Rd,,,Boulevard Food & Liquor Llc,192
+4879 N Broadway,,,Broadway Supermarket,193
+6604 N Sheridan Rd,,,Budget Finer Foods,194
+828 S Wabash Ave,,,Burnham Plaza Mart,195
+5659 S Ashland Ave,,,Busy Bee Supermarket,196
+209 E 103Rd St,,,Buy -N- Save,197
+901 N Damen Ave,,,Caesar'S Foods Inc,198
+1905 W 103Rd St,,,"Calabria Imports, Inc.",199
+5155 W Addison St,,,"Calma Optimal Deli, Inc.",200
+2714 W Cermak Rd,,,Carniceria Del Rio,201
+150 E Kensington Ave,,,Carniceria El Porvenir,202
+4459 W Belmont Ave,,,Carniceria&Fruteria El Mitote,203
+5250 W Fullerton Ave,,,Carniceria Guanajuato,204
+3132 N California Ave,,,Carniceria Guanajuato #3,205
+1436 N Ashland Ave,,,Carniceria Guanjuato #3,206
+3850 W Fullerton Ave,,,Carniceria Jimenez #2,207
+4204 W North Ave,,,Carniceria Jimenez Inc,208
+7067 N Clark St,,,Carniceria La Azteca,209
+2551 W 51St St,,,Carniceria La Gloria,210
+2744 W 55Th St,,,"Carniceria La Gloria No. 2, Inc.",211
+3459 W 59Th St,,,"Carniceria La Hacienda, Inc.",212
+2915 N Milwaukee Ave,,,"Carniceria La Mejor Produce, Inc.",213
+5800 W Grand Ave,,,Carniceria La Villa #2,214
+4419 W Diversey Ave,,,Carniceria Ricardo,215
+3604 W Grand Ave,,,Central Park Foods Inc,216
+5153 S Kedzie Ave,,,Centro Market,217
+5220 S Pulaski Rd,,,Cermak Produce,218
+4234 N Kedzie Ave,,,Cermak Produce,219
+4800 W Diversey Ave,,,Cermak Produce,220
+4401 W Armitage Ave,,,Cermak Produce,221
+1711 W Cermak Rd,,,Cermak Produce,222
+3311 W 26Th St,,,Cermak Produce,223
+3435 S Archer Ave,,,Cermak Produce #5 Ltd,224
+2701 W North Ave,,,Cermak Produce No.4,225
+2941 W Montrose Ave,,,Charlies  Supermarket Inc.,226
+327 E 79Th St,,,Chatham Food Market,227
+5800 N Pulaski Rd,,,Chicago Food Corp,228
+2122 W Devon Ave,,,Chicago Grocers,229
+22 W Maple St,,,Chicago Health - Maple Street,230
+3500 W Lawrence Ave,,,Chicago Produce,231
+3206 N Cicero Ave,,,Cicero Deli Inc.,232
+405 N Wabash Ave,,,City Grocery,233
+4183 N Clarendon Ave,,,Clarendon Food Mart Inc,234
+2807 N Clybourn Ave,,,Clybourn Market,235
+3004 E 100Th St,,,Commercial Grocery,236
+1105 W Bryn Mawr Ave,,,Corcorans Pantry Inc,237
+6307 S Cottage Grove Ave,,,Cottage Grove Food Mart,238
+10800 S Western Ave,,,County Fair Foods,239
+4353 W Madison St,,,Crespo'S Food Mart,240
+4229 W Montrose Ave,,,Cuenca'S Bakery & Groceries,241
+3260 W 55Th St,,,Cupboard Food & Liquor,242
+1601 W Garfield Blvd,,,D & A Food & Liquor,243
+2140 N Western Ave,,,Danny'S Fresh Market,244
+1440 W Devon Ave,,,Devon Market,245
+1478 W 115Th St,,,Dia Food & Liquor,246
+1759 W 21St St,,,Dililah Grocery,247
+339 W 79Th St,,,Discount Meat Company,248
+4153 W 63Rd St,,,Discount Pantry Corporation,249
+2057 N Pulaski Rd,,,Dollar Deals & Up,250
+1853 W 87Th St,,,Dollar & Linen,251
+6623 N Damen Ave,,,Dominick'S,252
+3145 S Ashland Ave,,,Dominick'S # 1100,253
+6312 N Nagle Ave,,,Dominick'S # 113/1113,254
+6009 N Broadway,,,Dominick'S # 12/0012,255
+2101 E 71St St,,,Dominick'S # 130/1130,256
+1340 S Canal St,,,Dominick'S #147/1147,257
+424 W Division St,,,Dominick'S #153/2153,258
+1763 W Howard St,,,Dominick'S #160/1698,259
+255 E Grand Ave,,,Dominick'S #1703,260
+1 N Halsted St,,,Dominick'S #1875,261
+5233 N Lincoln Ave,,,Dominicks #2889,262
+5201 N Sheridan Rd,,,Dominicks #2890,263
+2550 N Clybourn Ave,,,Dominick'S # 304/2304,264
+3350 N Western Ave,,,Dominick'S # 86/1086,265
+959 W Fullerton Ave,,,"Dominick'S Finer Foods, Inc. #1695",266
+2021 W Chicago Ave,,,Dominick'S Finer Foods - Store # 2775,267
+1858 W 63Rd St,,,Eddie'S Food Mart,268
+3624 W North Ave,,,Eddie & Son Food &Liq.,269
+10806 S Michigan Ave,,,"Eddie'S Sunshine Food & Liquor,  Inc.",270
+7575 N Rogers Ave,,,Eddy'S Food Mart,271
+5509 N Clark St,,,Edgewater Produce,272
+3938 W North Ave,,,El Barrio Grocery,273
+3048 W 26Th St,,,El Milagro,274
+2706 W Division St,,,El  Paseo  Boricua,275
+1900 N California Ave,,,El Yunque Food & Liquor,276
+5358 S Carpenter St,,,E.M. Groceries,277
+2294 N Milwaukee Ave,,,Emilio'S Produce,278
+340 W Superior St,,,Europa Galleria Inc,279
+6257 S Ashland Ave,,,Extra Value Food & Liquor,280
+2200 S Western Ave,,,Fairplay Finer Food,281
+4640 S Halsted St,,,Fairplay Finer Foods Inc,282
+2323 W 111Th St,,,Fairplay Foods Inc,283
+2900 E 79Th St,,,Fairway Food,284
+10601 S Pulaski Rd,,,Family Pride,285
+2255 W Devon Ave,,,Farm Super Market,286
+3307 W 63Rd St,,,Fiesta Supermarcado,287
+3019 E 91St St,,,First Choice Market,288
+935 W 87Th St,,,Five Star Certified Inc,289
+4821 W North Ave,,,Food 4 Less,290
+112 W 87Th St,,,Food 4 Less,291
+7030 S Ashland Ave,,,Food 4 Less Midwest,292
+4620 S Damen Ave,,,Food 4 Less Midwest #789,293
+7205 S Halsted St,,,Food Basket,294
+2901 W Armitage Ave,,,Foodsmart,295
+3415 W Diversey Ave,,,Foodsmart,296
+6319 S Vernon Ave,,,Fresh Buy Foods Inc,297
+2626 W Devon Ave,,,Fresh Farms International,298
+2600 N Central Ave,,,Fresh Market Place,299
+2759 S Spaulding Ave,,,Fruteria El Mercado,300
+1755 W 38Th St,,,Furteria El Serranito,301
+2802 S Kolin Ave,,,Gaytan Grocery Store,302
+4300 S Mozart St,,,Gemelos Food/ Check Cashing Services,303
+4746 N Lincoln Ave,,,Genes Sausage Shop At Deli Meyer,304
+5330 W Belmont Ave,,,Gene'S Sausage Shop & Deli Inc,305
+5044 S Archer Ave,,,Gilmart'S  Food & Liquor,306
+1949 W 51St St,,,Goldmore Food,307
+5202 W Grand Ave,,,Grand Food Market,308
+7131 S State St,,,"Grand Palace Supermarket, Inc",309
+1007 W 63Rd St,,,"H & A Food Market, Inc.",310
+1414 W Devon Ave,,,Halal Meat & Grocery,311
+6783 N Northwest Hwy,,,Happy Foods,312
+6415 N Central Ave,,,Happy Foods,313
+155 N Harbor Dr,,,Harbor Market,314
+5452 S Halsted St,,,Hareer Food & Liquor,315
+1455 E 57Th St,,,Harper Foods,316
+2632 W Lawrence Ave,,,Harvestime Foods,317
+13209 S Baltimore Ave,,,Hegewisch Fruit Market Inc.,318
+10259 S Michigan Ave,,,Hilltop Liquors Mart,319
+1101 W Argyle St,,,Hoa Nom Co,320
+5701 N Sheridan Rd,,,Hollywood Tower Mkt,321
+520 W 24Th Pl,,,Hong Kong Market,322
+1226 E 53Rd St,,,"Hyde Park Produce, Ltd",323
+3638 W Wrightwood Ave,,,H & Z Grocery Store,324
+4250 N Marine Dr,,,Imperial Tower Market,325
+4404 W Fullerton Ave,,,International Foods Nw Inc,326
+4556 S Ashland Ave,,,International Supermarket Inc,327
+4252 S Cottage Grove Ave,,,Jamaica Food & Liquor Inc,328
+3501 W Montrose Ave,,,J And P Finer Foods,329
+5755 W Fullerton Ave,,,J & A Oriental Food Mart,330
+317 E Garfield Blvd,,,Jardan Food & Liquor,331
+3133 W Lawrence Ave,,,Jerusalem Liquors,332
+11730 S Marshfield Ave,,,Jewel Food Store,333
+7530 S Stony Island Ave,,,Jewel Food Store #3030,334
+443 E 34Th St,,,Jewel Food Store #3043,335
+6057 S Western Ave,,,Jewel Food Store #3057,336
+1655 E 95Th St,,,Jewel Food Store #3092,337
+3128 W 103Rd St,,,Jewel Food Store #3114,338
+3940 E 106Th St,,,Jewel Food Store #3139,339
+5320 S Pulaski Rd,,,Jewel Food Store #3170,340
+9400 S Ashland Ave,,,Jewel Food Store #3176,341
+87 W 87Th St,,,Jewel Food Store #3181,342
+1210 N Clark St,,,Jewel Food Store #3210,343
+6430 W Irving Park Rd,,,Jewel Food Store #3224,344
+1341 N Paulina St,,,Jewel Food Store #3241,345
+4729 N Central Ave,,,Jewel Food Store #3282,346
+7342 W Foster Ave,,,Jewel Food Store #3296,347
+3644 S Archer Ave,,,Jewel Food Store #3302,348
+1220 S Ashland Ave,,,Jewel Food Store #3344,349
+1224 S Wabash Ave,,,Jewel Food  Store # 3345,350
+2520 N Narragansett Ave,,,Jewel Food Store #3349,351
+550 N State St,,,Jewel Food Store #3368,352
+5516 N Clark St,,,Jewel Food Store #3407,353
+2940 N Ashland Ave,,,Jewel Food Store #3441,354
+4042 W Foster Ave,,,Jewel Food Store #3442,355
+5343 N Broadway,,,Jewel Food Store #3443,356
+4250 N Lincoln Ave,,,Jewel Food Store #3454,357
+4355 N Sheridan Rd,,,Jewel Food Store #3455,358
+3570 N Elston Ave,,,Jewel Food Store #3470,359
+4734 N Cumberland Ave,,,Jewel Food Store #3477,360
+3400 N Western Ave,,,Jewel Food Store #3501,361
+3531 N Broadway,,,Jewel Food Store #3514,362
+6107 S Archer Ave,,,Jewel Food Store #3721,363
+4660 W Irving Park Rd,,,Jewel Food Stores #3262,364
+3630 N Southport Ave,,,Jewel-Osco #3632,365
+5960 W Lawrence Ave,,,J & J European Deli,366
+503 W 59Th St,,,J K & S Food & Liquor,367
+5834 W Fullerton Ave,,,Joe'S Food And Liquor Depot,368
+3626 W Lawrence Ave,,,Joe'S Food & Liquor,369
+5914 W Higgins Ave,,,Jolanta'S International Deli,370
+8235 W Irving Park Rd,,,Joseph Food Mart,371
+505 E 134Th St,,,J R Grocery Store,372
+2646 W Devon Ave,,,Kamdar Plaza Inc,373
+2005 S Michigan Ave,,,"Kan-Zaman Mart, Inc.",374
+3557 S California Ave,,,Kaps Foods,375
+4322 W Marquette Rd,,,K Buena,376
+13355 S Indiana Ave,,,Key Food Liquor,377
+146 W 103Rd St,,,Khalil Food & Liquor,378
+6858 S Halsted St,,,King Food & Liquor,379
+1130 W 51St St,,,K & K Food & Liquor,380
+2938 W Devon Ave,,,Kol Tuv Kosher Foods Inc,381
+6332 W Higgins Ave,,,Kordian'S Market,382
+5155 W Addison St,,,"Krakus Deli,  Inc",383
+1810 S Blue Island Ave,,,La Casa Del Pueblo Inc,384
+10736 S Ewing Ave,,,La Cienega Super Food Inc,385
+9704 S Commercial Ave,,,La Feria Grocery,386
+4149 W Armitage Ave,,,La Guerrerense,387
+4301 S Archer Ave,,,La International,388
+3239 W 26Th St,,,La Jaliscience,389
+4106 N Sheridan Rd,,,Lake View Foods Inc,390
+2535 N Laramie Ave,,,"La Loma ""Carniceria Y Taqueria""",391
+4335 W 26Th St,,,La Merced Inc,392
+2459 S Millard Ave,,,"La Nueva Imagen Grocery, Inc.",393
+4214 W North Ave,,,La Perla Tapatia Bakery,394
+4173 S Archer Ave,,,La Plama,395
+875 N Michigan Ave,,,L'Appetito,396
+1658 W 21St St,,,La Providencia Food Mart,397
+3232 N Harlem Ave,,,Laramie Bakery & Deli,398
+3800 W North Ave,,,"Latin Grocery & Liquor, Inc",399
+1515 W Devon Ave,,,"La Unica Food Mart, Inc.",400
+3705 W 16Th St,,,Lawndale Food Market,401
+6922 W Grand Ave,,,Laxi Liquor,402
+2832 S Wentworth Ave,,,Lemen Sun Corp.,403
+3142 W Lawrence Ave,,,Lindo Michoacan,404
+2857 W Diversey Ave,,,Logan Certified Foods Corp,405
+4600 S Fairfield Ave,,,Loreto Grocery,406
+1858 S Allport St,,,Los Cuatro Hermanos Grocery,407
+3624 W Belmont Ave,,,Los Potrillos,408
+5852 W Diversey Ave,,,Los Sauces Grocery,409
+7604 S Cottage Grove Ave,,,Louis' Groceries,410
+1714 W 18Th St,,,Luciano'S Grocery-18Th St,411
+7550 S May St,,,Lux 2 Food & Liquor,412
+8933 S Commercial Ave,,,Macias Produce Inc.,413
+4501 N Sheridan Rd,,,Makola African Supermarket #2,414
+1957 W Lawrence Ave,,,Mandy'S Liquor,415
+5353 N Elston Ave,,,Mariano'S Fresh Market #8507,416
+5817 W Madison St,,,Mario 'S Butcher Shop Fd Cntr,417
+5050 S Lake Shore Dr,,,Market In The Park,418
+804 S California Ave,,,Ma'S & Pa'S Grocery Snack Shop,419
+4728 N Pulaski Rd,,,Mayfair Market Place,420
+2104 S Archer Ave,,,Mayflower Food,421
+1300 W 111Th St,,,M & D Variety Store,422
+2445 W Devon Ave,,,Mehrab Zabiha Meat & Tobacco,423
+3867 W Grand Ave,,,Melissa'S Food & Liquors Inc,424
+7051 W Addison St,,,Miara'S Cont'L Pastry Deli Inc,425
+2448 S Oakley Ave,,,Miceli'S Deli & Food Mart,426
+1300 E 47Th St,,,Michaels Fresh Market,427
+3855 W Division St,,,Mid Town Foods,428
+2601 W 59Th St,,,Mi Mexico Grocery,429
+2800 S Tripp Ave,,,Mini Mercado La Betania,430
+3654 W Lawrence Ave,,,M & J Liquor & Grocery,431
+613 E 67Th St,,,Mlb Food,432
+4848 W Madison St,,,Moo & Oink Inc,433
+4833 W Diversey Ave,,,"Morelia Supermarket #2, Inc.",434
+7300 N Western Ave,,,"Morelia Supermarket, Inc.",435
+6600 S Morgan St,,,Morgan Food Corp Llc,436
+4257 S Rockwell St,,,Moroleon Foods #2 Inc.,437
+1430 W Morse Ave,,,Morse Food And Meat Market,438
+4738 N Kedzie Ave,,,Mounsef International,439
+332 E 58Th St,,,Mr G'S Food & Liquor,440
+1012 N Larrabee St,,,Munchies On Larrabee,441
+2559 W Division St,,,Municipal Foods,442
+4650 N Sheridan Rd,,,"My Ranch, Inc.",443
+10935 S Wentworth Ave,,,Nance Food Mart,444
+12315 S State St,,,Nancy Foods Inc,445
+3523 W Lawrence Ave,,,National Fruit Stop,446
+6452 N Milwaukee Ave,,,Natural Country Deli,447
+2449 W Devon Ave,,,Nayab Mart,448
+7749 S Halsted St,,,Neil'S Food,449
+3003 W 63Rd St,,,New La Estrella Foods Inc.,450
+413 S Kedzie Ave,,,New Pop-In,451
+3637 W Division St,,,Nickel Liquor & Mini Mart Inc,452
+2505 W Devon Ave,,,Noor Meat,453
+5170 W North Ave,,,Northwest Food & Liquor,454
+2600 W Lithuanian Plaza Ct,,,"Ogies Food, Inc",455
+5345 W Ohio St,,,Ohio Food Mart,456
+5129 N Broadway,,,Old World Market,457
+3536 W 63Rd St,,,Olive Mount Mart,458
+4401 W Madison St,,,One Stop,459
+4301 S Lake Park Ave,,,One Stop Food & Liquor Store,460
+4932 N Sheridan Rd,,,Oriental Asia Market Inc.,461
+316 W Illinois St,,,Orleans Market,462
+615 E 67Th St,,,Osama Food Mart,463
+3449 S Halsted St,,,Outlet Kingdom,464
+2234 W Devon Ave,,,Par Birdie Foods,465
+2612 W 71St St,,,"Park Foods Of 71St Street,Inc.",466
+1544 W 41St St,,,"Park Packing Of Chicago, Inc.",467
+195 N Harbor Dr,,,Parkshore Market Ltd,468
+2610 W Devon Ave,,,Patel Bros,469
+3501 N Lincoln Ave,,,Paulina Market,470
+7622 N Paulina St,,,Paulina Super Market Inc,471
+1300 W Lake St,,,Peoria Packing Ltd,472
+4241 W Madison St,,,Personal Liquors Inc,473
+2534 W Peterson Ave,,,Peterson Food Mart,474
+3448 E 118Th St,,,Pete'S Fresh Market,475
+2526 W Cermak Rd,,,Pete'S Fresh Supermarket,476
+2526 W Cermak Rd,,,Pete'S Fresh Supermarket,477
+5724 S Kedzie Ave,,,Pete'S Market,478
+2001 W 71St St,,,Pete'S Meat & Grocery #2,479
+1543 E 87Th St,,,Pete'S Produce,480
+1411 W 87Th St,,,Pete'S Produce,481
+4154 W Division St,,,P & I Food & Liquor Inc.,482
+1956 W Armitage Ave,,,Polonia Food Mart,483
+875 N State St,,,Potash Bros Inc,484
+1525 N Clark St,,,Potash Bros. Supermarket,485
+7104 S Western Ave,,,Prestige Liquors,486
+2559 W Augusta Blvd,,,Puerto Rico Food & Liquors,487
+2557 W 71St St,,,Quality Food On 71 St Inc,488
+2751 W Pratt Blvd,,,Quick Stop Food Mart,489
+1532 N Pulaski Rd,,,Quintessence,490
+6316 S Ashland Ave,,,Rainbow Finer Food & Liquor,491
+2003 W 69Th St,,,Rainbow Grocery,492
+857 N Western Ave,,,"Rich'S Deli & Liquor, Inc",493
+1835 S Canal St,,,Richwell Market,494
+2858 S Lawndale Ave,,,Rigo'S Grocery,495
+3501 W North Ave,,,"Rio Grande Fruit Market, Inc.",496
+5606 W Division St,,,Rite Price Food,497
+1656 W Cortland St,,,Riverside Deli,498
+3218 N Harlem Ave,,,Riviera Foods,499
+5640 W Fullerton Ave,,,Rj Liquors,500
+2458 S St Louis Ave,,,Rodriguez Fruits & Vegetable,501
+6978 N Clark St,,,Roman Bros 1 Inc,502
+10500 S Michigan Ave,,,Rose-Ridge Foods,503
+4359 S Campbell Ave,,,Royla Blue Foods,504
+2425 W Diversey Ave,,,"R & S Discount Food, Wine, & Liquor",505
+7105 S Racine Ave,,,Safah Food & Liquor Inc,506
+4851 N Kedzie Ave,,,Sahar International Supermarket,507
+6812 N Sheridan Rd,,,Sam Food And Liquor,508
+4213 N Kedzie Ave,,,Sanabel Grocery & Bakery,509
+10700 S Halsted St,,,Save-A-Lot  #851,510
+7240 S Stony Island Ave,,,Save-A-Lot  #852,511
+7908 S Halsted St,,,Save-A-Lot # 854,512
+5555 W North Ave,,,Save-A-Lot   #856,513
+2858 E 83Rd St,,,Save-A-Lot  # 858,514
+420 S Pulaski Rd,,,Save-A-Lot  #859,515
+4439 W 63Rd St,,,Save-A-Lot #860,516
+4701 S Cottage Grove Ave,,,Save-A-Lot  #862,517
+3939 W Ogden Ave,,,Save-A-Lot # 866,518
+344 E 63Rd St,,,Save-A-Lot #882,519
+148 W 79Th St,,,Save-A-Lot #886,520
+313 E 43Rd St,,,Saveway Food,521
+6454 W North Ave,,,Serrelli'S Foods,522
+1425 W Montrose Ave,,,Seven Eleven,523
+4884 S Archer Ave,,,"Seven Nine Eleven Food Mart, Inc.",524
+5829 S Archer Ave,,,Shop & Save Market,525
+316 W 103Rd St,,,Shop Wise Food,526
+7500 S Exchange Ave,,,"S & K Food & Liquor, Inc.",527
+4759 N Sheridan Rd,,,S L Pantry & Grill,528
+3821 W Roosevelt Rd,,,Solid Gold,529
+7501 S Jeffery Blvd,,,South Shore Food Market Inc.,530
+2427 N Clark St,,,S. S. Food & Liquor,531
+1558 N Elston Ave,,,Stanley'S,532
+6058 S Racine Ave,,,Steve Food & Liquor,533
+1622 W Monterey Ave,,,Stop & Go Food Mart,534
+3804 W 111Th St,,,S & T Provision Co Inc,535
+2627 N Elston Ave,,,Strack & Van Til,536
+1101 W Granville Ave,,,Sun Liquors,537
+3737 W Chicago Ave,,,Sunrise Food And Liquors,538
+1604 W 59Th St,,,"Super Dollar And Up 4, Inc.",539
+4801 S Ashland Ave,,,Super Dollar Discount,540
+1049 W Bryn Mawr Ave,,,"Super Food & Liquors, Inc.",541
+5257 S Ashland Ave,,,Super Furniture & Food Mart,542
+1111 W 40Th St,,,Superior Nut & Candy  Co.I Inc.,543
+5147 W Division St,,,Super Jim'S,544
+4937 W 47Th St,,,Supermarket & Taqueria Caro,545
+1422 W 47Th St,,,Super Mas Market,546
+4134 W 31St St,,,Supermercado Alex,547
+7117 N Clark St,,,Supermercado Chapala,548
+4939 S Ashland Ave,,,Supermercado El Cubano Inc,549
+4023 S Archer Ave,,,Supermercado El Guero #10 Inc,550
+2101 W Cermak Rd,,,Supermercado El Guero No. 8,551
+1701 W 47Th St,,,Super Mercado El Guerro,552
+6701 N Clark St,,,Supermercado El Mexicano,553
+2701 S Lawndale Ave,,,Supermercado Gela'S,554
+2300 S Kedzie Ave,,,Supermercado Guadalajara #2,555
+3100 W Cermak Rd,,,Supermercado Guerrero,556
+3555 W 26Th St,,,Super Mercado La Chiquita,557
+2623 S Pulaski Rd,,,Supermercado La Chiqutia # 4,558
+5020 W Fullerton Ave,,,Supermercado La Villa,559
+4045 W 31St St,,,Supermercado Santos,560
+3629 W 63Rd St,,,Supermercado Tepecoa Guerrero,561
+4100 W North Ave,,,"Sweqi Food Mart, Inc.",562
+6016 W Irving Rd,,,"Szymanski Bros, Inc",563
+4925 N Broadway,,,Tai Nam Corporation,564
+2226 S Wentworth Ave,,,Tai Wah Grocery,565
+3106 N Harlem Ave,,,The Cellar,566
+2233 W Howard St,,,The Fish Keg Inc,567
+521 W Diversey Pkwy,,,The Market Place Foodstore,568
+8313 S Racine Ave,,,The Neighborhood Store,569
+5820 N Milwaukee Ave,,,The Produce Center,570
+2523 E 75Th St,,,The Unit,571
+538 W 119Th St,,,The Warehouse,572
+900 N Francisco Ave,,,Three Brother,573
+2712 W Montrose Ave,,,Three R Food,574
+12247 S Halsted St,,,"Three Roosters, Inc.",575
+310 N Kostner Ave,,,Three Stars Liquors,576
+928 W Wilson Ave,,,Thrifty Food,577
+1402 N Ashland Ave,,,Tierra Caliente Market,578
+4137 N Elston Ave,,,"Tony'S Finer Foods Enterprises, Inc.",579
+4608 W Belmont Ave,,,"Tony'S Finer Foods Enterprises, Inc.",580
+3607 W Fullerton Ave,,,"Tony'S Finer Foods Enterprises, Inc.",581
+2500 N Central Ave,,,"Tony'S Finer Foods Enterprises, Inc.",582
+3745 N Lincoln Ave,,,Trader Joe'S,583
+44 E Ontario St,,,Trader Joe'S East,584
+1840 N Clybourn Ave,,,Trader Joe'S East,585
+217 N Jefferson St,,,Trattoria Isabella,586
+3460 N Broadway,,,Treasure Island Foods,587
+680 N Lake Shore Dr,,,Treasure Island Foods,588
+2121 N Clybourn Ave,,,Treasure Island Foods,589
+1639 N Wells St,,,Treasure Island Foods,590
+75 W Elm St,,,Treasure Island Foods Inc,591
+702 E 100Th Pl,,,Two Blue Foods Inc,592
+3021 N Cicero Ave,,,T & Z Meat,593
+3250 W 87Th St,,,Ultra Foods,594
+1051 W Argyle St,,,Viet Hoa Plaza,595
+6315 S Kedzie Ave,,,Walgreens #05034,596
+2924 E 92Nd St,,,Walgreens # 05192,597
+6016 W 63Rd St,,,Walgreens # 06297,598
+1627 N Pulaski Rd,,,Walgreens #11410,599
+1554 E 55Th St,,,Walgreens #162,600
+5401 S Wentworth Ave,,,Walgreens #2073,601
+4005 W 26Th St,,,Walgreens #226,602
+3405 S Dr Martin Luther King Jr Dr,,,Walgreens #232,603
+6330 S Dr Martin Luther King Jr Dr,,,Walgreens #2923,604
+3256 N Milwaukee Ave,,,Wally'S International Market,605
+6601 W Irving Park Rd,,,Wally'S Market Inc,606
+10900 S Doty Ave W,,,Walmart,607
+1424 W 47Th St,,,Walmart,608
+4139 W Fifth Ave,,,Washington Grocery,609
+1551 S Kedzie Ave,,,"Way Low Discount Food, Inc.",610
+2132 W Washington Blvd,,,West Haven Market & Grill,611
+5838 S Pulaski Rd,,,West Lawn Foods,612
+3300 N Ashland Ave,,,Whole Foods Market,613
+1101 S Canal St,,,Whole Foods Market,614
+6020 N Cicero Ave,,,Whole Foods Market,615
+1550 N Kingsbury St,,,Whole Foods Market,616
+30 W Huron St,,,Whole Foods Market,617
+3640 N Halsted St,,,Whole Foods Market,618
+6309 W Grand Ave,,,William'S Produce,619
+324 S Cicero Ave,,,Windy City Inc,620
+9361 S Cottage Grove Ave,,,W K R B Food & Liquor,621
+2434 W Devon Ave,,,World Fresh Market,622
+1717 E 79Th St,,,W & R Food & Liquor Inc,623
+375 E 75Th St,,,Zee Dollar And Food,624
+513 E 47Th St,,,Ziad Certified Foods,625
+1351 W 87Th St,,,Z & S Food & Liquor,626
+7449 Us 72 W Hwy Nw,,,Sunshine Fillpino Supplies Llc,627
+11451 Memorial Pky Se,,,Jet Pep One Stop,628
+3420 Pulaski Pke Nw,,,Lucky'S,629
+3521 Governors Dr Sw,,,Brothers Mini Mart,630
+619 Oakwood Ave Nw,,,Fuel King Oakwood,631
+10001 Memorial Pky Se,,,Minitman,632
+8650 Madison Blv,,,Walmart Supercenter,633
+540 Jordan Ln Nw,,,Kangaroo Express,634
+8233 Old Railroad Bed Rd,,,Elkwood Grocery,635
+11040 Memorial Pky Sw,,,Kangaroo Express,636
+7546 Memorial Pky Sw,,,Circle C,637
+3321 Triana Blv Sw,,,Family Dollar,638
+3490 Al 53 Hwy Nw Unit A,,,Discount Daddies,639
+7950 Us 72 W Hwy,,,The Fresh Market,640
+624 Jeff Rd,,,Discount Food Mart,641
+1011 Us 72 Hwy,,,Walmart Supercenter,642
+5208 Moores Mill Rd,,,Rocket Quick Stop,643
+8006 Old Madison Pike,,,International Supermarket,644
+3031 Memorial Pky Sw,,,Walmart Supercenter,645
+8000 Memorial Pwy Sw,,,Sunoco Busy Bee,646
+717 Pratt Ave Ne Unit A,,,Propst Discount Drugs,647
+1176 Old Monrovia Rd Nw,,,Atlantis Corner,648
+2501 Jordan Ln Nw,,,Family Dollar,649
+2998 Governors Dr Sw,,,La Congeneida Mexican Supermarket,650
+2525 Oakwood Ave Nw,,,Cvs,651
+2310 University Dr Nw,,,Bama Grocery,652
+12796 Bailey Cove Rd Se,,,Publix,653
+7504 Us 72 W Hwy Nw Unit B,,,Sprouts Farmers Market,654
+14881 Us 231-431 N Hwy,,,El Arcoiris Grocery Store,655
+2750 Carl T Jones  Dr Se Unit 17,,,Super Target,656
+611 Us 72 E Hwy Nw,,,Wavaho,657
+2110 Oakwood Ave Nw,,,Kroger,658
+3001 Johnson Rd Sw,,,Johnson Discount Mart,659
+708 Poplar Ave Nw,,,Vettes Stop & Shop,660
+2009 Drake Ave Sw,,,Kroger,661
+7131 Us 72 W Hwy Nw,,,Mapco Express,662
+5990 Pulaski Pke Nw,,,Ez Mart,663
+1222 Jordan Ln Nw,,,La Colonial Tienda Mexicana,664
+8404 Memorial Pky Sw,,,Kroger,665
+1600 Jordan Ln Nw,,,Raeds Quick Stop,666
+4001 University Dr Nw,,,Minitman,667
+2525 Winchester Rd Nw,,,Mike'S Mini Mart,668
+4320 University Dr Nw,,,Progreso Tienda Mexicana,669
+6046 Al 53 Hwy,,,Sure Save Pharmacy,670
+4302 University Dr Nw,,,Mini Mart,671
+8000 Al 20 Hwy W,,,Publix,672
+11550 Memorial Pky Sw,,,Parkway Express,673
+6327 Us 72 Hwy,,,Piggly Wiggly Of Gurley,674
+905 Memorial Pky Nw,,,Mapco Mart,675
+4851 Whitesburg Dr Se Unit B,,,Publix,676
+6270 Us 72 Hwy E,,,72 Quick Stop,677
+2246 Winchester Rd Ne,,,Publix,678
+2424 Jordan Ln Nw,,,Jordan Lane Texaco,679
+11610 Memorial Pky Sw,,,Walmart Supercenter,680
+12070 County Line Rd Ste C,,,Publix,681
+3726 Blue Spring Rd Nw,,,Circle S Food Store,682
+7525 Bailey Cove Rd Se,,,Jack Food Mart,683
+2323 Golf Rd Sw,,,Discount Food,684
+2880 Jordan Ln Nw,,,Shell Food Mart,685
+1205 Memorial Pky Nw,,,Costco,686
+2007 University Dr Nw,,,La Michoacana,687
+4112 Bob Wallace Ave Sw,,,Valley'S Gas N Go,688
+6681 Swancott Rd Sw,,,Greenbrier Fuel City,689
+1009 Winchester Rd Ne,,,Discount Food Mart,690
+1407 Memorial Pky Nw Unit C,,,Foods For Life,691
+3030 Memorial Pky Nw,,,Texaco North Parkway,692
+3610 Governors Dr Nw,,,Family Dollar,693
+4710 University Dr Nw,,,Dollar General,694
+2809 Governors Dr Sw,,,Rincom Guatemala,695
+8897 Us 72 W Hwy Nw,,,Mapco Mart,696
+2212 Clinton Ave Nw,,,Hye & Bye,697
+2100 Brandon St Sw,,,Walgreens,698
+1820 Nick Davis Rd,,,Harvest Shop Rite,699
+4001 Pulaski Pke Nw,,,Pulaski Corner Store,700
+8466 Old Madison Pke,,,Dollar General Market,701
+4811 University Dr Nw,,,Everyday Exxon,702
+3023 Memorial Pky Nw Unit C,,,Grace African & Tropical Store,703
+11560 Memorial Pky Sw,,,Raceway,704
+10199 Us 431 S Hwy,,,Piggly Wiggly Of New Hope,705
+4906 Whitesburg Dr Sw,,,Rite Aid,706
+8150 Whitesburg Dr Sw,,,Whitesburg Exxon,707
+3105 Drake Ave Sw,,,Corner Store,708
+1109 Jordan Ln Nw,,,Lanoche Buena,709
+3501 Pulaski Pke Nw,,,Mastin Lake Chevron,710
+3120 Bob Wallace Ave Sw,,,Walgreens,711
+7185 Wall Triana Hwy,,,Dollar General,712
+3705 Drake Ave Sw,,,Fuel Center,713
+11249 Memorial Pky Se,,,Hillwood Chevron,714
+2200 University Dr Nw,,,Vish Quick Stop,715
+8000 Madison Blv,,,Rite Aid,716
+2015 Memorial Pky Sw,,,Ayers Farm Family Market,717
+5836 Al 53 Hwy,,,Dollar General,718
+4901 Meridian St Nw,,,Fast Stop,719
+2108 Triana Blv Sw,,,Jazime Tequira,720
+4226 Oakwood Ave Nw,,,Walmart Neighborhood Market,721
+2212 Whitesburg Dr Sw,,,Cvs,722
+6278 University Dr Nw,,,Kangaroo Express,723
+6275 University Dr Nw,,,Super Target,724
+2598 Sparkman Dr Nw,,,C J Food Mart,725
+2305 Jordan Ln Sw,,,Walmart Neighborhood Market,726
+3310 Meridian St Ne,,,Meridian Street Hop In,727
+5900 University Dr Nw Unit C,,,Earth Fare,728
+2605 University Dr Nw,,,University Chevron,729
+5695 Us 431 S Hwy Se,,,Big Cove Raceway,730
+5850 Al 53 Hwy,,,Publix,731
+2537 Sparkman Dr Nw,,,Sparkman Bp,732
+2220 Zierdt Rd Sw,,,Mapco Express,733
+3115 Bob Wallace Ave Sw,,,Cvs,734
+2001 Cecil Ashburn Dr Se,,,Cvs,735
+8402 Whitesburg Dr Sw Unit H,,,Tango Oriental Market,736
+3720 Al 53 Hwy Nw,,,Quik Mart,737
+6201 Old Madison Pke Nw,,,Dollar General,738
+8470 Us 72 W Hwy Nw,,,Cvs,739
+600 Jordan Ln Nw,,,Namaste Plaza,740
+109 Winchester Rd Ne,,,Campus Corner,741
+5651 Holmes Ave Nw,,,Sam'S Club,742
+298 Hughes Rd,,,Rite Aid,743
+11856 Pulaski Pike,,,Toney'S Food Mart,744
+4964 Memorial Pky Nw,,,Parkway Chevron,745
+2235 National Blv Sw,,,Sam'S Club,746
+4579 Wall Triana Hwy,,,Kroger,747
+300 Jefferson St Nw,,,W.L. Halsey,748
+1935 Jeff Rd,,,Dollar General,749
+2100 Drake Ave Sw Unit A,,,Drake Food Mart,750
+1449 O'Shaughnessy Ave Ne,,,Hi & Bye Grocery,751
+205 Andrew Jackson Way Ne,,,5 Points Fuel Stop,752
+110 Crossing Blv,,,Dollar General,753
+5004 Whitesburg Dr Sw,,,Minitman,754
+981 Hobbs Island Rd,,,Hobbs Island Grocery & Beverage,755
+2407 Memorial Pky Nw Unit A,,,Tide Clean,756
+7271 Wall Triana Hwy,,,Fred'S,757
+1450 Sparkman Dr Nw,,,Om Sirdi Sai Inc,758
+6140 University Dr Nw,,,Walmart Supercenter,759
+2900 Triana Blv Sw Unit A,,,Dollar General,760
+7830 Us 72 Hwy W,,,Publix,761
+3012 Memorial Pky Nw,,,Family Dollar,762
+110 Wilson Mann Rd,,,Curt & Betty'S Grocery,763
+7950 Us 72 W Hwy Unit D,,,Dollar General,764
+4008 Holmes Ave Nw,,,John'S Big Brother Super Market,765
+7140 Wall Triana Hwy,,,Walmart Neighborhood Market,766
+4113 Bob Wallace Ave Sw,,,Ez Xpress,767
+7193 Us 72 W Hwy Nw Unit A,,,Far East Market,768
+9020 Bailey Cove Rd Se,,,Walmart Neighborhood Market,769
+2501 Memorial Pky Sw,,,Whole Foods Market,770
+2520 Oakwood Ave Nw,,,All In One Discount Center,771
+12290 Us 231-431 N Hwy,,,Rite Aid,772
+8286 Wall Triana Hwy,,,Super Value Grocery Store,773
+3500 Mastin Lake Rd Nw,,,Walgreens,774
+2310 Clinton Ave Nw,,,Clinton Ave Grocery,775
+4710 University Dr Nw Unit R1,,,Aldi,776
+3906 Triana Blvd Sw,,,Triana Food Mart,777
+3204 Ninth Ave Sw,,,Glory Afrikan Store,778
+204 Jordan Ln Nw,,,Citgo Express,779
+7090 Us 72 W Hwy Nw,,,Kroger,780
+9501 Moores Mill Rd,,,Triangle Grocery,781
+12078 Us 231-431 N Hwy,,,Star Super Market,782
+13375 Memorial Pky Se Unit A,,,Ditto Landing Jet Pep,783
+8500 Old Madison Pke,,,Texaco Mini Discount,784
+3200 Bob Wallace Ave Sw,,,Bob Wallace Texaco,785
+111 Phillips Rd,,,Jj Grocery,786
+2601 Memorial Pky Nw,,,Dollar General,787
+2614 Governors Dr Sw,,,Conoco Food Mart,788
+6000 Pulaski Pke Nw,,,Victory Food Mart,789
+1110 Washington St Nw,,,A & T Food Mart,790
+274 Sutton Rd Se,,,Walgreens,791
+2210 Winchester Rd Ne,,,Cvs,792
+1214 Sparkman Dr Nw,,,Sparkman Market,793
+2551 Bob Wallace Ave Sw,,,Big A Convenience Store,794
+5600 Us 431 Hwy Se,,,Minitman Amoco,795
+2340 Whitesburg Dr Sw,,,Dollar General,796
+1762 Winchester Rd Ne,,,Food Valu,797
+2064 Us 72 E Hwy Ne Unit B,,,Citgo Fuel Express,798
+5000 Memorial Pky Nw,,,Kangaroo Express,799
+3420 Memorial Pky Nw,,,Victory Handy Food Mart,800
+4003 Ninth Ave Sw,,,9Th Avenue Top Stop,801
+11030 Memorial Pky Sw,,,Cvs,802
+2990 Al 53 Hwy Nw,,,Lakeside Food Mart,803
+6585 Us 431 S Hwy Se,,,Hampton Cove Exxon,804
+7346  Moores Mill Rd,,,Moores Mill Grocery,805
+404 Us 72 E Hwy Nw,,,Service Food,806
+809 Wellman Ave Ne,,,Family Dollar,807
+4200 Bob Wallace Ave Sw,,,L & N Texaco,808
+6670 Us 431 S Hwy Se,,,Mapco Express,809
+6725 Swancott Rd Sw,,,Greenbrier Chevron,810
+610 Nance Rd Nw,,,Dollar General,811
+1619 Pulaski Pke Nw,,,Pulaski Wavaho,812
+3997 University Dr Nw,,,Walgreens,813
+136 Countess Rd Ne,,,Dollar General,814
+12879 Memorial Pky Se,,,Dollar General,815
+600 Jordan Ln Nw Unit 5,,,Y & J Corporation,816
+3906 Triana Blv Sw,,,Triana Food Mart,817
+444 Wynn Dr Nw,,,Rite Aid,818
+30664 Us 72 W Hwy Nw,,,Dollar General,819
+2302 Whitesburg Dr Sw,,,Pharmacy First,820
+1338 Winchester Rd Ne Unit A,,,Rite Aid,821
+7676 Us 72 W Hwy Nw,,,Aldi,822
+7813 Us 72 W Hwy,,,Walgreens,823
+3407 Pulaski Pke Nw,,,Family Dollar,824
+3318 Bob Wallace Ave Sw,,,Papa Jack'S,825
+1022 Cook Ave Nw,,,Madison County Farmers Market,826
+1476 Joe Quick Rd,,,Hunter And Potter Grocery,827
+2806 Holmes Ave Nw,,,Dollar General,828
+307 Andrew Jackson Way Ne,,,Kyles Corner,829
+13001 Memorial Pky Se,,,Circle C,830
+504 Jordan Lane Nw,,,Jamos Grocery,831
+14470 Us 231-431 N Hwy,,,Griner'S Supermarket,832
+300 Oakwood Ave Nw,,,Lucky Spot,833
+2806 Memorial Pky Sw,,,Dollar General,834
+3700 Blue Spring Rd Nw,,,Dollar General Market,835
+4320 University Dr Nw,,,Suraj Imports,836
+2000 Whitesburg Dr Sw,,,Med Express,837
+2599 Sparkman Dr Nw,,,Shell Food Mart,838
+4800 Whitesburg Dr Sw,,,The Fresh Market,839
+330 Sutton Road Se,,,Walmart Supercenter,840
+5991 Pulaski Pke Nw,,,Dollar General,841
+501 Drake Ave Sw,,,Drake Chevron,842
+7407 Us 72 W Hwy Nw,,,Thai International Grocery,843
+6297 Al 53 Hwy,,,Harvest Jiffy Mart,844
+8503 Old Madison Pke,,,Cvs,845
+6214 Old Madison Pke Nw,,,Papa Jack'S,846
+7635 Wall Triana Hwy,,,D&D Grocery,847
+801 Airport Rd Sw,,,Airport Road Chevron,848
+1604 Us 72 E Hwy Ne,,,Minitman,849
+6102 Us 72 Hwy E,,,Penny Pantry,850
+7584 Us 72 W Hwy Nw,,,Browns Texaco,851
+2603 Mountain Gap Rd Se Unit A,,,Mt Gap Food Mart,852
+8580 Us 72 W Hwy Nw,,,Walmart Supercenter,853
+6466 Us 431 S Hwy Se Unit 1,,,Dollar General,854
+628 Meridian St Nw,,,Garden Cove Produce Center Inc,855
+25977 Huntsville Browns Ferry Rd Nw,,,Brentwood Market,856
+2210 Meridian St Ne,,,Dollar General,857
+2745 Bob Wallace Ave Sw Unit B,,,European Market,858
+2305 Governors Dr Sw,,,Sams Mini Mart,859
+2784 Carl T Jones Dr Se,,,Walgreens,860
+8511 Whitesburg Dr Se,,,Fuel City,861
+11399 Memorial Pky Se,,,Walgreens,862
+2003 Meridian St Nw,,,Minitman,863
+4011 University Dr Nw,,,Texaco University,864
+3315 Governors Dr Sw,,,Minitman,865
+6090 Old Madison Pke Nw,,,Space & Rocket Mini Mart,866
+508 Oakwood Ave Ne,,,Oakwood Exxon,867
+11900 Memorial Pky Sw,,,Minitman,868
+3005 Holmes Ave Nw,,,Holmes Mini Mart,869
+7646 Old Madison Pke Nw,,,Minitman,870
+2701 Patton Rd Sw Unit A,,,Holiday Foods,871
+8212 Bailey Cove Rd Se,,,Minitman,872
+4061 Independence Dr Nw,,,Dollar General,873
+5830 University Dr Nw,,,Madison Square Chevron,874
+5800 University Dr Nw,,,Little Sam'S Discount Mart,875
+30697 Us 72 W Hwy Nw,,,In & Out Mini Mart,876
+6070 Moores Mill Rd Ne,,,Kroger,877
+2200 Sparkman Dr Nw,,,Walmart Supercenter,878
+10000 Bailey Cove Rd Se,,,Discount Express,879
+1800 University Dr Nw,,,Short Stop,880
+2119 Clinton Ave Sw,,,Express Food Mart,881
+8890 Us 72 W Hwy Nw Unit B,,,Favorite Market,882
+2206 Mastin Lake Rd Nw,,,Mini Mart,883
+5160 Blue Spring Rd Nw,,,Quick Trip,884
+3421 Pulaski Pke Nw,,,Neighbor Quick Stop,885
+1109 Slaughter Rd Nw,,,Nelco Express,886
+4120 Triana Blv Sw,,,Dollar General,887
+100 Providence Main St Nw Unit G,,,Cvs,888
+8108 Memorial Pky Sw,,,Far East Market,889
+3629 Patton Rd Sw,,,Drake'S Mini Mart,890
+6707 Us 431 S Hwy Se,,,Publix,891
+12290 Us 231-431 N Hwy,,,Publix,892
+3121 Drake Ave Sw,,,Valero Food Mart,893
+306 Andrew Jackson Way Ne,,,Papa Jack'S,894
+30694 Us 72 W Hwy Nw Unit A,,,Sure Save Pharmacy,895
+14595 Us 231-431 N Hwy,,,Walmart,896
+8290 Whitesburg Dr Sw,,,Shinsegae Oriental Market,897
+3228 Bob Wallace Ave Sw,,,La Feria,898
+11909 Memorial Pky Se,,,Aldi,899
+11431 Memorial Pky Se,,,Aj'S Fuel City,900
+1910 Jordan Ln Nw,,,Discount Food & Beverage,901
+2600 Memorial Pky Sw,,,Minitman Amoco,902
+3801 Patton Rd Sw,,,Redstone Food Mart Inc,903
+285 Pratt Ave Ne Unit B,,,Pratt Ave Chevron Food Mart,904
+8207 Us 72 W Hwy,,,Target,905
+1400 Weatherly Plz Se,,,Dollar General,906
+12275 Us 231-431 N Hwy,,,Cvs,907
+2821 University Dr Nw,,,University Jet Pep,908
+200 Governors Dr Se,,,Governors Exxon,909
+4000 Holmes Ave Nw,,,Minitman,910
+2211 Whitesburg Dr Se,,,Dodges Store,911
+3505 Pulaski Pke Nw,,,Save-A-Lot,912
+702 Pratt Ave Ne,,,Star Super Market,913
+14200 Us 231-431 N Hwy,,,Ma Market,914
+310 Pelham Ave Sw,,,Publix,915
+6707 Us 431 S Hwy Se Unit 101,,,Rite Aid,916
+6150 University Dr Nw,,,Minitman,917
+2955 Jordan Ln Nw,,,Liberty Quick Stop,918
+2700 Winchester Rd,,,Family Dollar,919
+1008 Andrew Jackson Way Ne,,,Dollar General,920
+2420 Jordan Ln Nw,,,Dollar General,921
+9120 Wall Triana Hwy,,,Dollar General,922
+930 Winchester Rd Ne,,,Cvs,923
+14450 Us 231-431 N Hwy,,,Rite Aid,924

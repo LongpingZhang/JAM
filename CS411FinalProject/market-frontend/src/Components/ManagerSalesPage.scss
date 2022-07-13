@@ -1,0 +1,107 @@
+.manager_sales_page {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+
+    .manager_sales_page__top_nav {
+        .manager_sales_page_redirect_button {
+            position: absolute;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            top: 20px;
+            left: 20px;
+            width: 320px;
+            height: 40px;
+            color: white;
+            font-size: medium;
+            font-weight: 800;
+            background-color: transparent;
+            align-items: center;
+    
+            .btn {
+                height: 40px;
+                position: relative;
+                color: white;
+                font-size: medium;
+                font-weight: 800;
+                background-color: transparent;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+    
+            .btn:hover {
+                cursor: pointer;
+                background-color: aquamarine;
+                color: black;
+            }
+        }
+
+        .manager_sales_page_logout_button {
+            position: absolute;
+            display: flex;
+            top: 20px;
+            right: 20px;
+            width: 80px;
+            height: 40px;
+            color: white;
+            font-size: medium;
+            font-weight: 800;
+            background-color: transparent;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .manager_sales_page_logout_button:hover {
+            cursor: pointer;
+            background-color: aquamarine;
+            color: black;
+        }
+
+        .manager_sales_page_title {
+            position: absolute;
+            display: flex;
+            top: 20px;
+            left: 41%;
+        }
+    }
+
+    .manager_sales_page_form {
+        margin-top: 100px;
+        .manager_sales_page_input {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            margin-bottom: 10px;
+        }
+    }
+    
+
+    .manager_sales_page_submit_button {
+        background-color: yellowgreen;
+        color: black;
+        margin: 10px;
+        margin-bottom: 20px;
+        padding: 5px;
+        font-size: 18px;
+    }
+
+    .manager_sales_page__table {
+        .manager_sales_page__table_header {
+            min-width: 200px;
+            border: 1px solid white;
+        }
+    
+        .manager_sales_page__table_content {
+            min-width: 200px;
+            border: 1px solid white;
+            text-align: center;
+        }
+    }
+}
